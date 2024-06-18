@@ -372,6 +372,7 @@
             Controls.Add(txbValorReferencia);
             Controls.Add(label1);
             Name = "ConversorFrm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Conversor de Medidas";
             gpbUnidadesImperiais.ResumeLayout(false);
             gpbUnidadesImperiais.PerformLayout();

@@ -82,6 +82,7 @@
             Controls.Add(txbValorReferencia);
             Controls.Add(label1);
             Name = "ValorReferenciaFrm";
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Valor Referência";
             ResumeLayout(false);
             PerformLayout();
